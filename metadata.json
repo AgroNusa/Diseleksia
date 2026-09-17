@@ -1,6 +1,6 @@
 {
-  "name": "Rangkuman Otak Anak Disleksia",
-  "description": "Rangkuman singkat, padat, dan jelas mengenai neurosains membaca dan disleksia pada anak berdasarkan video Edukasi Medika Teknologi.",
+  "name": "Memahami Disleksia - Rangkuman Video",
+  "description": "Rangkuman komprehensif, singkat, padat, dan jelas dari video Memahami Disleksia oleh Edukasi Medika Teknologi (Definisi klinis, DSM-5, gejala sesuai usia, dan intervensi dini).",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
