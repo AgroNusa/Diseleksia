@@ -1,6 +1,6 @@
 {
-  "name": "Memahami Disleksia - Rangkuman Video",
-  "description": "Rangkuman komprehensif, singkat, padat, dan jelas dari video Memahami Disleksia oleh Edukasi Medika Teknologi (Definisi klinis, DSM-5, gejala sesuai usia, dan intervensi dini).",
+  "name": "Kekhawatiran ke Aksi Nyata: Deteksi & Intervensi Dini",
+  "description": "Kompilasi komprehensif seri Edukasi Medika Teknologi (Video 2, 3, 4, 5 berurutan): Fondasi medis ADI & DSM-5, beban kognitif & fungsi eksekutif, deteksi dini & red flags, hingga rencana aksi nyata, IEP, dan akomodasi kelas/rumah.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
